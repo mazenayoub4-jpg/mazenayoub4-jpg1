@@ -35,4 +35,3 @@ Engineered a text processing pipeline in Python (NLTK/TextBlob) classifying 10,0
 * **Email:** [mazenayoub4@gmail.com](mailto:mazenayoub4@gmail.com)
 * **LinkedIn:** [linkedin.com/in/mazen-ayoub-b8a0b53ba](https://www.linkedin.com/in/mazen-ayoub-b8a0b53ba)
 * **Location:** Amman, Jordan (US Citizen — Remote / US Hours)
-*
